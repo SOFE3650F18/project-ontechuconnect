@@ -2,8 +2,8 @@
 
 ### Team Members
 
-- Ethan Elliott
 - Anirudh Mungre
+- Ethan Elliott
 
 ### Deliverables
 
