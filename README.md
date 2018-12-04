@@ -9,3 +9,5 @@
 
 - Deliverable 1: Excerpt from Assignment #2
 - Deliverable 2: Iterations of ADD process
+
+Send your name on blackboard
