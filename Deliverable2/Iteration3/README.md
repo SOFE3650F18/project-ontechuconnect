@@ -27,13 +27,17 @@ For this scenario the elements that will be refined are the physical nodes that 
 
 Design Decisions and Location|Rationale and Assumptions
 ---|---
-Collaborative Work Environment|With this students will be able to work collaboratively without leaving the CMS
-Multiple TA Adding|Allow Professors to add as many TA's as required for courses aside from the one required TA
-Mobile Version|Create a mobile version of the app to allow for multi platform use
+Using sockets|To have real time interaction with students on collaborative workspace. Some sort of realtime messaging system
+Creating a TA type|In the database creating a TA type which can be assigned to courses and each course can have multiple TA's
+Mobile Version|Porting already created web app to mobile friendly version
 
 ## Step 5
 
 ### Instantiate Architectual Elements, Allocate Responsibilities, and Define Interfaces
+
+Design Decisions and Location|Rationale and Assumptions
+---|---
+
 
 ## Step 6
 
