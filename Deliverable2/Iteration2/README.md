@@ -63,7 +63,7 @@ FrontEnd|Web-based interface to interact with the api and simplify GET/POST/UPDA
 ### Sketch views and Record Design Decisions
 
 
-![](Deliverable2/Iteration2/assets/i2p61.png)
+![](assets/i2p61.png)
 
 Initial Domain Model
 
