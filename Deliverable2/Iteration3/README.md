@@ -37,7 +37,10 @@ Mobile Version|Porting already created web app to mobile friendly version
 
 Design Decisions and Location|Rationale and Assumptions
 ---|---
-|
+Using SocketIO| SocketIO is a well established socket library for many languages including Javascript. This will be used to allow real-time interactions, and remove tcp rest latency during requests for information (for example with ajax)
+MongoDB JSON-type object|Will use MongoDB's JSON-type objects to allow the creation of the types of ta's/instructors that exist to control aspects of the CMS
+VueJS with Material design interface constraints| Will use Material design's already implimented standard for displaying information on different screen sizes to allow a seperate interface for each device type
+Cordova|Will use cordova to port the already compiled static interface files to native application packages for an array of available platforms(avoiding redundency in interface design or creation)
 
 ## Step 6
 
