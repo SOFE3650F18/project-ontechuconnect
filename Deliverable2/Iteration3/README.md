@@ -37,14 +37,13 @@ Mobile Version|Porting already created web app to mobile friendly version
 
 Design Decisions and Location|Rationale and Assumptions
 ---|---
-
+|
 
 ## Step 6
 
 ### Sketch Views and Record Design Decisions
 
-<!-- Insert sketch here -->
-![](assets/I3S6.jpg)
+![](./assets/I3S6.jpg)
 
 ## Step 7
 
